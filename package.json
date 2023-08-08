@@ -2,7 +2,7 @@
   "name": "aws-cdk-typescript-boilerplate",
   "version": "0.1.0",
   "bin": {
-    "aws-cdk-typescript-boilerplate": "bin/aws-cdk-typescript-boilerplate.js"
+    "aws-cdk-typescript-boilerplate": "app/main.js"
   },
   "scripts": {
     "build": "tsc",
