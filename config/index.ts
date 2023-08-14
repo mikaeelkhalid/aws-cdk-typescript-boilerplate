@@ -10,6 +10,8 @@ const config = parse(readConfigFile);
 
 const { nameSpace } = config;
 
-export const deployNodejsAppStackProps = {
+// rename accordingly, e.g: deployNodejsAppConfigProps
+export const stackNameConfigProps = {
   nameSpace,
 };
+

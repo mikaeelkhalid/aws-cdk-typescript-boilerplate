@@ -1,4 +1,4 @@
-nameSpace: deploy-nodejs-app
+nameSpace: stack-name # rename accordingly, e.g: deploy-nodejs-app
 
 environments:
   - name: dev

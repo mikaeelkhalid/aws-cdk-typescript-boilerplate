@@ -1,2 +1,2 @@
-export * from './deploy-nodejs-app';
+export * from './stack-name';
 

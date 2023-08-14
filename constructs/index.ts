@@ -1,1 +1,2 @@
-export * from './codedeploy';
+export * from './construct-name';
+
