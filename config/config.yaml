@@ -1,0 +1,12 @@
+nameSpace: deploy-nodejs-app
+
+environments:
+  - name: dev
+    region: us-east-1
+
+  - name: prod
+    region: us-east-1
+
+stacks:
+
+constructs:
