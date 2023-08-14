@@ -1,1 +1,2 @@
-export * from './aws-service-name/stack-name';
+export * from './deploy-nodejs-app';
+
